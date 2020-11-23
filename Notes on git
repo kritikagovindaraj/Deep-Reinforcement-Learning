@@ -1,8 +1,4 @@
 error: src refspec master does not match any.  
 error: failed to push some refs to 'ssh://xxxxx.com/project.git'
 
-if this error occurs, then the naming of the branch is differnt
-
-fix :
-1. Check the name of the current branch
-2. rename to desired
+FIX : if this error occurs, then create new branch, set as default new branch, delete old branch
