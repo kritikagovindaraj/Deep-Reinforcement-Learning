@@ -39,4 +39,5 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ### Instructions
 
-Follow the instructions in `Tennis.ipynb` to get started with training your own agent!  
+Follow the instructions in `Tennis.ipynb` to get started with training.
+Follow the instructions in `Tennis_result.ipynb` to get started with testing.
